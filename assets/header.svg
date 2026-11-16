@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+  <title id="title">Polpo-SmartLi</title>
+  <desc id="desc">XMUM student exploring artificial intelligence and large language models. Learning at my own pace.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a32"/><stop offset="1" stop-color="#192345"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#80e6d9"/><stop offset="1" stop-color="#a6a1ff"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b2c4f5" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1000" height="240" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="240" rx="18" fill="url(#dots)"/>
+  <g fill="none" stroke="#aaa6ff" opacity=".2">
+    <circle cx="875" cy="120" r="100"/><circle cx="875" cy="120" r="73"/><circle cx="875" cy="120" r="46"/>
+    <path d="M775 120h200M875 20v200M804 49l142 142M804 191 946 49"/>
+  </g>
+  <g fill="#8be7df"><circle cx="875" cy="47" r="4"/><circle cx="802" cy="120" r="4"/><circle cx="926" cy="171" r="4"/></g>
+  <rect x="48" y="46" width="5" height="145" rx="2.5" fill="url(#accent)"/>
+  <text x="78" y="69" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="4" fill="#92c8d6">CURIOSITY IS A GOOD START</text>
+  <text x="75" y="126" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#f2f5ff">Polpo-SmartLi<tspan fill="#8be7df">.</tspan></text>
+  <text x="78" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#bac6e3">XMUM student exploring AI &amp; large language models</text>
+  <text x="78" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.2" fill="#8f9dbd">LEARN THE BASICS. FOLLOW THE QUESTIONS.</text>
+</svg>
